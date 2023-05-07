@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2237d4adb9f7464cbc540ee130b5571, type: 3}
+  m_Name: "In\u0131tialBiomeData"
+  m_EditorClassIdentifier: 
+  deepWaterLevel: 0.05
+  waterLevel: 0.1
+  seaCostLevel: 0.14
+  grassLevel: 0.2
+  forestLevel: 0.4
+  rocklevel: 0.5
+  upperRockLevel: 0.6
+  snowLevel: 0.7
+  deepWaterColor: {r: 0.24007656, g: 0.34604776, b: 0.7830189, a: 0}
+  waterColor: {r: 0.5547793, g: 0.77902114, b: 0.8584906, a: 0}
+  seaCostColor: {r: 0.9242651, g: 0.9811321, b: 0.47668213, a: 0}
+  grassColor: {r: 0.5779748, g: 0.8396226, b: 0.4000089, a: 0}
+  forestColor: {r: 0.20638904, g: 0.49056602, b: 0.0995016, a: 0}
+  rockColor: {r: 0.5188679, g: 0.4760788, b: 0.43320575, a: 0}
+  upperRockColor: {r: 0.5660378, g: 0.5580278, b: 0.5580278, a: 0}
+  snowColor: {r: 0.8773585, g: 0.87096405, b: 0.8566661, a: 0}
